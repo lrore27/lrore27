@@ -1,6 +1,6 @@
 - 🥰 Hi, I’m @lrore27
 - 👀 I’m interested in react native, react, redux
-- 🌱 I’m currently learning redux
+- 🌱 I’m currently learning react native, redux
 - 💞️ I’m looking to collaborate on mobile project
 
 <!---
